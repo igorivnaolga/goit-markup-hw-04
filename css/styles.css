@@ -325,7 +325,7 @@ Team */
   color: var(--customers-icon-color);
   border: 1px solid currentColor;
   border-radius: 4px;
-  transition: border var(--transition-dur-func),
+  transition: border-color var(--transition-dur-func),
     color var(--transition-dur-func);
 }
 .customers-list-icon {
@@ -518,7 +518,7 @@ Team */
   left: 50%;
   transform: translate(-50%, -50%);
   width: 408px;
-  min-height: 576px;
+  min-height: 584px;
   border-radius: 4px;
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 1px 3px rgba(0, 0, 0, 0.12),
     0px 2px 1px rgba(0, 0, 0, 0.2);
